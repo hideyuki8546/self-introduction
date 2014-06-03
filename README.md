@@ -41,7 +41,7 @@ I am interested in android / iOS development.
 
 Hello. I'm Hideyuki, 29 years old. I live in Ashiya-city, Hyogo, Japan.
 I just started to learn about Html 5/ CSS/ JavaScript two weeks ago.
-So I don't know very little about programming.
+So I know very little about programming.
 But I am very excited thanks to the teacher and members of this class!!!
 I learn about "what is open source" "Twitter Bootstrap" for the first time in this class. Now I'm glad to got to use bootstrap easily like this (http://geeks.secret.jp/ ) ※this website is just a temporary example. 
 
